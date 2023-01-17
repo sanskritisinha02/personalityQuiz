@@ -23,9 +23,6 @@ In this guided project, we created a personality quiz. It is a game where player
 
 Here's the demo on the simulator.
 
-
-//https://user-images.githubusercontent.com/90863360/212976874-69afd73a-9e61-48b3-a75d-23017e685323.mp4
-
 <p align="center">
-  <img width="200" height = "400" alt="Img1" src="https://user-images.githubusercontent.com/90863360/212976874-69afd73a-9e61-48b3-a75d-23017e685323.mp4">
+  <img width="300" height = "600" alt="Img1" src="https://user-images.githubusercontent.com/90863360/212976874-69afd73a-9e61-48b3-a75d-23017e685323.mp4">
 </p>
